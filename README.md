@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cray2019
 - 👀 I’m interested in 
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
 
 <!---
 cray2019/cray2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
