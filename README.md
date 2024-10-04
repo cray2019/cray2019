@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cray2019
-- 👀 I’m interested in 
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
 
 <!---
